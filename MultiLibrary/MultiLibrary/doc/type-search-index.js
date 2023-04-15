@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"MultiLibrary","l":"Book"},{"p":"MultiLibrary","l":"BookFunc"},{"p":"MultiLibrary","l":"Home"},{"p":"MultiLibrary","l":"Librarian"},{"p":"MultiLibrary","l":"Member"},{"p":"MultiLibrary","l":"MultiMgr"},{"p":"MultiLibrary","l":"MultiMgrImp"},{"p":"MultiLibrary","l":"Register"}]
